@@ -10,7 +10,6 @@
    *  [💻 Sobre o projeto](#sobre)
    * [👩‍💻 Autores](#autores)
       *  [Andressa Colin](#andressa)
-      *  [Elton Dutra](#elton)
       *  [Everton Garcia](#everton)
       *  [Luísa Andrade](#luisa)
       *  [Thomas Matisi](#thomas)
@@ -51,7 +50,7 @@
   ##
   
   <h2 id="sobre">Sobre o projeto</h2>
-     <p> O projeto foi realizado por um grupo de estudantes de programação, foi realizado totalmente na linguagem de marcação HTML e na linguagem de estilização CSS. Foi inteiramente construído através do editor de códigos <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</p>
+     <p> O projeto foi realizado por um grupo de estudantes de programação,  totalmente na linguagem de marcação HTML e na linguagem de estilização CSS. Foi inteiramente construído através do editor de códigos <a href="https://code.visualstudio.com/">Visual Studio Code</a>.</p>
   
   
   ##
@@ -59,7 +58,6 @@
   <h2 id="autores">Autores</h2>
   <ul>
     <li id="andressa"> <a href="https://github.com/dressaco">Andressa Colin</a></li>
-    <li id="elton"> <a href="">Elton Dutra</a></li>
     <li id="everton"> <a href="https://github.com/etongarcia">Everton Garcia</a></li>
     <li id="luisa"> <a href="https://github.com/LuisaAndrade0607">Luísa Andrade</a></li>
     <li id="thomas"> <a href="https://github.com/Cybervulthor">Thomas Matisi</a></li>
